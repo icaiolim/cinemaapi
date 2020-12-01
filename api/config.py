@@ -21,8 +21,8 @@ def configure_restx(app):
 #
 # PostgreSQL
 #
-def configurar_database(app,db):
-    app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://caio:admin@localhost:5432/LIVRARIA'
+def configure_database(app,db):
+    app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://caio:admin@localhost:5432/CINEMA'
     app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
     app.config['SQLALCHEMY_ECHO'] = False
     db.init_app(app)

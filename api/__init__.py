@@ -3,18 +3,22 @@ from flask import Blueprint, Flask
 from flask_cors import CORS
 from flask_restx import Api
 from flask_restx.apidoc import apidoc
+from flask_sqlalchemy import SQLAlchemy
+from flask_marshmallow import Marshmallow
 from .config import *
 
 # Define API Endpoint
 URL_PREFIX = '/api'
 apidoc.url_prefix = URL_PREFIX
 
-# Database Instance with SQLAlchemy
-
-# Marshmallow Instance
-
 # Flask Instance
 app = Flask(__name__)
+
+# Database Instance with SQLAlchemy
+db = SQLAlchemy()
+
+# Marshmallow Instance
+ma = Marshmallow(app)
 
 # CORS Instance
 cors = CORS(app)
@@ -32,5 +36,4 @@ api = Api(
 
 configure_app(app)
 configure_restx(app)
-configure_log()
-
+configure_database(app, db)
