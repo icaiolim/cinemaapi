@@ -9,5 +9,5 @@ ns = api.namespace('filme','Filme')
 class FilmeService(Resource):
 
     def get(self):
-        ''' Retorna todos os Filmes'''
+        ''' Consultar todos os filmes'''
         return make_response(jsonify({"filmes": dao().get_all()}), 200)

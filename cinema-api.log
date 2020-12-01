@@ -374,3 +374,182 @@
 127.0.0.1 - - [01/Dec/2020 03:14:09] "[37mGET /api/filme/ HTTP/1.1[0m" 200 -
 127.0.0.1 - - [01/Dec/2020 03:16:32] "[37mGET /api/filme/ HTTP/1.1[0m" 200 -
 127.0.0.1 - - [01/Dec/2020 03:18:59] "[37mGET /api/filme/ HTTP/1.1[0m" 200 -
+>> CINEMA API http://127.0.0.1:5600
+ * Running on http://127.0.0.1:5600/ (Press CTRL+C to quit)
+ * Restarting with stat
+>> CINEMA API http://127.0.0.1:5600
+ * Debugger is active!
+ * Debugger PIN: 758-207-508
+127.0.0.1 - - [01/Dec/2020 03:28:58] "[37mGET /api/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [01/Dec/2020 03:28:58] "[36mGET /api/swaggerui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [01/Dec/2020 03:28:58] "[36mGET /api/swaggerui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [01/Dec/2020 03:28:58] "[36mGET /api/swaggerui/droid-sans.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [01/Dec/2020 03:28:58] "[36mGET /api/swaggerui/swagger-ui.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [01/Dec/2020 03:28:58] "[37mGET /api/swagger.json HTTP/1.1[0m" 200 -
+127.0.0.1 - - [01/Dec/2020 03:29:09] "[31m[1mPUT /api/helloservice/1?data=asdf HTTP/1.1[0m" 406 -
+127.0.0.1 - - [01/Dec/2020 03:30:00] "[37mPUT /api/helloservice/3 HTTP/1.1[0m" 200 -
+ * Detected change in '/home/caio/Devlopment/python/cinema_api/api/services/hello_service.py', reloading
+ * Restarting with stat
+>> CINEMA API http://127.0.0.1:5600
+ * Debugger is active!
+ * Debugger PIN: 758-207-508
+127.0.0.1 - - [01/Dec/2020 03:30:29] "[37mPUT /api/helloservice/3 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [01/Dec/2020 03:30:37] "[37mPUT /api/helloservice/3 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [01/Dec/2020 03:30:41] "[37mPUT /api/helloservice/3 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [01/Dec/2020 03:30:45] "[37mPUT /api/helloservice/3 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [01/Dec/2020 03:30:49] "[37mPUT /api/helloservice/3 HTTP/1.1[0m" 200 -
+ * Detected change in '/home/caio/Devlopment/python/cinema_api/api/services/hello_service.py', reloading
+ * Restarting with stat
+>> CINEMA API http://127.0.0.1:5600
+ * Debugger is active!
+ * Debugger PIN: 758-207-508
+127.0.0.1 - - [01/Dec/2020 03:31:57] "[37mPUT /api/helloservice/3 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [01/Dec/2020 03:32:01] "[31m[1mPUT /api/helloservice/3 HTTP/1.1[0m" 406 -
+127.0.0.1 - - [01/Dec/2020 03:32:06] "[37mPUT /api/helloservice/3 HTTP/1.1[0m" 200 -
+ * Detected change in '/home/caio/Devlopment/python/cinema_api/api/services/hello_service.py', reloading
+ * Restarting with stat
+>> CINEMA API http://127.0.0.1:5600
+ * Debugger is active!
+ * Debugger PIN: 758-207-508
+127.0.0.1 - - [01/Dec/2020 03:34:25] "[37mGET /api/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [01/Dec/2020 03:34:25] "[36mGET /api/swaggerui/droid-sans.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [01/Dec/2020 03:34:25] "[36mGET /api/swaggerui/swagger-ui.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [01/Dec/2020 03:34:25] "[36mGET /api/swaggerui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [01/Dec/2020 03:34:25] "[36mGET /api/swaggerui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [01/Dec/2020 03:34:25] "[37mGET /api/swagger.json HTTP/1.1[0m" 200 -
+ * Detected change in '/home/caio/Devlopment/python/cinema_api/api/services/hello_service.py', reloading
+ * Restarting with stat
+>> CINEMA API http://127.0.0.1:5600
+ * Debugger is active!
+ * Debugger PIN: 758-207-508
+ * Detected change in '/home/caio/Devlopment/python/cinema_api/api/services/hello_service.py', reloading
+ * Restarting with stat
+>> CINEMA API http://127.0.0.1:5600
+ * Debugger is active!
+ * Debugger PIN: 758-207-508
+127.0.0.1 - - [01/Dec/2020 03:36:45] "[37mGET /api/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [01/Dec/2020 03:36:45] "[36mGET /api/swaggerui/droid-sans.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [01/Dec/2020 03:36:45] "[36mGET /api/swaggerui/swagger-ui.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [01/Dec/2020 03:36:45] "[36mGET /api/swaggerui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [01/Dec/2020 03:36:45] "[36mGET /api/swaggerui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [01/Dec/2020 03:36:45] "[37mGET /api/swagger.json HTTP/1.1[0m" 200 -
+ * Detected change in '/home/caio/Devlopment/python/cinema_api/api/services/hello_service.py', reloading
+ * Restarting with stat
+>> CINEMA API http://127.0.0.1:5600
+ * Debugger is active!
+ * Debugger PIN: 758-207-508
+ * Detected change in '/home/caio/Devlopment/python/cinema_api/api/services/hello_service.py', reloading
+ * Restarting with stat
+>> CINEMA API http://127.0.0.1:5600
+ * Debugger is active!
+ * Debugger PIN: 758-207-508
+127.0.0.1 - - [01/Dec/2020 03:37:26] "[37mGET /api/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [01/Dec/2020 03:37:26] "[36mGET /api/swaggerui/droid-sans.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [01/Dec/2020 03:37:26] "[36mGET /api/swaggerui/swagger-ui.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [01/Dec/2020 03:37:26] "[36mGET /api/swaggerui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [01/Dec/2020 03:37:26] "[36mGET /api/swaggerui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [01/Dec/2020 03:37:26] "[37mGET /api/swagger.json HTTP/1.1[0m" 200 -
+127.0.0.1 - - [01/Dec/2020 03:37:45] "[37mDELETE /api/helloservice/99 HTTP/1.1[0m" 200 -
+ * Detected change in '/home/caio/Devlopment/python/cinema_api/api/services/hello_service.py', reloading
+ * Restarting with stat
+>> CINEMA API http://127.0.0.1:5600
+ * Debugger is active!
+ * Debugger PIN: 758-207-508
+127.0.0.1 - - [01/Dec/2020 03:38:25] "[37mDELETE /api/helloservice/99 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [01/Dec/2020 03:38:27] "[37mGET /api/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [01/Dec/2020 03:38:27] "[36mGET /api/swaggerui/droid-sans.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [01/Dec/2020 03:38:27] "[36mGET /api/swaggerui/swagger-ui.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [01/Dec/2020 03:38:27] "[36mGET /api/swaggerui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [01/Dec/2020 03:38:27] "[36mGET /api/swaggerui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [01/Dec/2020 03:38:27] "[37mGET /api/swagger.json HTTP/1.1[0m" 200 -
+127.0.0.1 - - [01/Dec/2020 03:38:32] "[37mDELETE /api/helloservice/111 HTTP/1.1[0m" 200 -
+ * Detected change in '/home/caio/Devlopment/python/cinema_api/api/services/hello_service.py', reloading
+ * Restarting with stat
+>> CINEMA API http://127.0.0.1:5600
+ * Debugger is active!
+ * Debugger PIN: 758-207-508
+127.0.0.1 - - [01/Dec/2020 03:39:28] "[37mDELETE /api/helloservice/111 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [01/Dec/2020 03:39:30] "[37mGET /api/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [01/Dec/2020 03:39:30] "[36mGET /api/swaggerui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [01/Dec/2020 03:39:30] "[36mGET /api/swaggerui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [01/Dec/2020 03:39:30] "[36mGET /api/swaggerui/droid-sans.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [01/Dec/2020 03:39:30] "[36mGET /api/swaggerui/swagger-ui.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [01/Dec/2020 03:39:30] "[37mGET /api/swagger.json HTTP/1.1[0m" 200 -
+ * Detected change in '/home/caio/Devlopment/python/cinema_api/api/services/hello_service.py', reloading
+ * Restarting with stat
+>> CINEMA API http://127.0.0.1:5600
+ * Debugger is active!
+ * Debugger PIN: 758-207-508
+127.0.0.1 - - [01/Dec/2020 03:39:49] "[37mGET /api/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [01/Dec/2020 03:39:49] "[36mGET /api/swaggerui/droid-sans.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [01/Dec/2020 03:39:49] "[36mGET /api/swaggerui/swagger-ui.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [01/Dec/2020 03:39:49] "[36mGET /api/swaggerui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [01/Dec/2020 03:39:49] "[36mGET /api/swaggerui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [01/Dec/2020 03:39:49] "[37mGET /api/swagger.json HTTP/1.1[0m" 200 -
+127.0.0.1 - - [01/Dec/2020 03:39:57] "[37mDELETE /api/helloservice/99 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [01/Dec/2020 03:40:25] "[37mPUT /api/helloservice/3 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [01/Dec/2020 03:40:32] "[37mPUT /api/helloservice/7 HTTP/1.1[0m" 200 -
+ * Detected change in '/home/caio/Devlopment/python/cinema_api/api/services/genero_service.py', reloading
+ * Restarting with stat
+>> CINEMA API http://127.0.0.1:5600
+ * Debugger is active!
+ * Debugger PIN: 758-207-508
+ * Detected change in '/home/caio/Devlopment/python/cinema_api/api/services/genero_service.py', reloading
+ * Restarting with stat
+>> CINEMA API http://127.0.0.1:5600
+ * Debugger is active!
+ * Debugger PIN: 758-207-508
+ * Detected change in '/home/caio/Devlopment/python/cinema_api/api/controllers/genero_dao.py', reloading
+ * Restarting with stat
+>> CINEMA API http://127.0.0.1:5600
+ * Debugger is active!
+ * Debugger PIN: 758-207-508
+ * Detected change in '/home/caio/Devlopment/python/cinema_api/api/controllers/genero_dao.py', reloading
+ * Restarting with stat
+>> CINEMA API http://127.0.0.1:5600
+ * Debugger is active!
+ * Debugger PIN: 758-207-508
+ * Detected change in '/home/caio/Devlopment/python/cinema_api/api/controllers/genero_dao.py', reloading
+ * Restarting with stat
+>> CINEMA API http://127.0.0.1:5600
+ * Debugger is active!
+ * Debugger PIN: 758-207-508
+127.0.0.1 - - [01/Dec/2020 03:44:07] "[37mGET /api/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [01/Dec/2020 03:44:07] "[36mGET /api/swaggerui/droid-sans.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [01/Dec/2020 03:44:07] "[36mGET /api/swaggerui/swagger-ui.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [01/Dec/2020 03:44:07] "[36mGET /api/swaggerui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [01/Dec/2020 03:44:07] "[36mGET /api/swaggerui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [01/Dec/2020 03:44:07] "[37mGET /api/swagger.json HTTP/1.1[0m" 200 -
+ * Detected change in '/home/caio/Devlopment/python/cinema_api/api/services/genero_service.py', reloading
+ * Restarting with stat
+>> CINEMA API http://127.0.0.1:5600
+ * Debugger is active!
+ * Debugger PIN: 758-207-508
+127.0.0.1 - - [01/Dec/2020 03:44:38] "[37mGET /api/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [01/Dec/2020 03:44:38] "[36mGET /api/swaggerui/droid-sans.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [01/Dec/2020 03:44:38] "[36mGET /api/swaggerui/swagger-ui.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [01/Dec/2020 03:44:38] "[36mGET /api/swaggerui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [01/Dec/2020 03:44:38] "[36mGET /api/swaggerui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [01/Dec/2020 03:44:38] "[37mGET /api/swagger.json HTTP/1.1[0m" 200 -
+ * Detected change in '/home/caio/Devlopment/python/cinema_api/api/services/genero_service.py', reloading
+ * Restarting with stat
+>> CINEMA API http://127.0.0.1:5600
+ * Debugger is active!
+ * Debugger PIN: 758-207-508
+127.0.0.1 - - [01/Dec/2020 03:44:50] "[37mGET /api/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [01/Dec/2020 03:44:50] "[36mGET /api/swaggerui/droid-sans.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [01/Dec/2020 03:44:50] "[36mGET /api/swaggerui/swagger-ui.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [01/Dec/2020 03:44:50] "[36mGET /api/swaggerui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [01/Dec/2020 03:44:50] "[36mGET /api/swaggerui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [01/Dec/2020 03:44:51] "[37mGET /api/swagger.json HTTP/1.1[0m" 200 -
+ * Detected change in '/home/caio/Devlopment/python/cinema_api/api/services/filme_service.py', reloading
+ * Restarting with stat
+>> CINEMA API http://127.0.0.1:5600
+ * Debugger is active!
+ * Debugger PIN: 758-207-508
+127.0.0.1 - - [01/Dec/2020 03:45:10] "[37mGET /api/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [01/Dec/2020 03:45:10] "[36mGET /api/swaggerui/droid-sans.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [01/Dec/2020 03:45:10] "[36mGET /api/swaggerui/swagger-ui.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [01/Dec/2020 03:45:10] "[36mGET /api/swaggerui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [01/Dec/2020 03:45:10] "[36mGET /api/swaggerui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [01/Dec/2020 03:45:10] "[37mGET /api/swagger.json HTTP/1.1[0m" 200 -

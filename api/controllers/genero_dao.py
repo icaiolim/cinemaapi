@@ -4,9 +4,6 @@ from .. import db
 
 class GeneroDAO():
     def add(self, data):
-        """
-            Insert data into table genero
-        """
         try:
             obj = Genero()
             obj.name = data.get('name')
@@ -27,7 +24,4 @@ class GeneroDAO():
             )
 
     def get_by_id(self, id):
-        """
-            Get genero data refereced by id
-        """
         return GeneroSchema().dump(Genero.query.filter(Genero.id==id).one())
